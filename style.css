@@ -1,0 +1,20 @@
+/* mobile first  */
+/* desktop first */
+
+/* breakpoints - width in which our design responds to changes  */
+
+/* mobile first  */
+
+/* layout width font sizes */
+.special {
+  color: purple;
+  background-color: brown;
+  margin: 6px 10px;
+}
+/* auto  */
+
+.parent {
+  background-image: url("./laptop.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}

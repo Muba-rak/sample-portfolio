@@ -1,0 +1,16 @@
+VERSION CONTROL - 
+git - download 
+
+git --version
+
+email -
+username
+
+repository - folder(online) for your project
+
+git init - initializing a git repo
+git add . - what files do you want it to watch git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Muba-rak/sample-portfolio.git
+git push -u origin main
