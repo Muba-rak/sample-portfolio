@@ -7,10 +7,21 @@ email -
 username
 
 repository - folder(online) for your project
+config your git 
+git config --global user.email 'email address'
+git config --global user.name 'username'
 
+
+when we are starting a repo
 git init - initializing a git repo
 git add . - what files do you want it to watch git add .
-git commit -m "first commit"
+git commit -m "changed styles"
 git branch -M main
 git remote add origin https://github.com/Muba-rak/sample-portfolio.git
 git push -u origin main
+
+
+update an existing repo
+git add .
+git commit -m 'added new contents'
+git push
